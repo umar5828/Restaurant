@@ -5,6 +5,7 @@ a{
 .navbar{
     border-top:1px solid #5C6168;
     border-bottom: 2px dashed #5C6168;
+    margin-left: -12px;
 }
 .nav__bar-top-link{
     font-weight: 400;
@@ -97,4 +98,57 @@ color: #FFFFFF;
     background: #292E36;
     margin-top: 50px;
     border-radius: 100px;
+}
+.col-lg-6{
+}
+.about-bottom>h3{
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    letter-spacing: 0.2px;
+    color: #292E36;
+}
+.about-bottom>p{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #555555;
+}
+.about-bottom-2 h3{
+    
+font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 56px;
+letter-spacing: 0.2px;
+color: #292E36;
+}
+.about-bottom-2 p{
+    font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: #555555;
+}
+.about-bottom-2 h4{
+    
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.2px;
+
+color: #555555;
+
 }
