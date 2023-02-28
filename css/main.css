@@ -203,3 +203,49 @@ line-height: 30px;
 letter-spacing: 0.2px;
 color: #555555;
 }
+/*Testimonial*/
+
+.Testimonial_h3{
+    display: inline-block;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;    
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-top: 3px solid #E1B168;
+}
+.Testimonial{
+    width: 100%;
+    margin-left: -15px;
+}
+.Testimonial h2{
+    font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 56px;
+/* identical to box height, or 140% */
+
+letter-spacing: 0.2px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+}
+.Testimonial_p{
+    
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+color: #FFFFFF
+}
+.card{
+    background-color: #343942;
+}
