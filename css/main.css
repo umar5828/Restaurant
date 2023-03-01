@@ -1,11 +1,14 @@
 a{
     text-decoration: none;
 }
-
+.position{
+position: absolute;
+left: 0;
+right: 0;
+}
 .navbar{
     border-top:1px solid #5C6168;
-    border-bottom: 2px dashed #5C6168;
-    margin-left: -12px;
+    border-bottom: 1px dashed #5C6168;
 }
 .nav__bar-top-link{
     font-weight: 400;
@@ -57,7 +60,6 @@ margin-left: 60px;
 
 .nav-link:focus{
   color: #E1B168;
-
 }
 .active1{
 color: #E1B168 !important;
@@ -73,14 +75,13 @@ color: #E1B168 !important;
 .about_title{
     font-family: 'Cormorant Infant';
     font-weight: 200;
-font-size: 90px;
-line-height: 110px;
-font-style: normal;
-letter-spacing: 0.2px;
-color: #FFFFFF;
+    font-size: 90px;
+    line-height: 110px;
+    font-style: normal;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
 }
 .about_text{
-    
 font-family: 'Josefin Sans';
 font-style: normal;
 font-weight: 400;
@@ -218,8 +219,7 @@ color: #555555;
     border-top: 3px solid #E1B168;
 }
 .Testimonial{
-    width: 100%;
-    margin-left: -15px;
+   
 }
 .Testimonial h2{
     font-family: 'Cormorant Infant';
@@ -248,4 +248,49 @@ color: #FFFFFF
 }
 .card{
     background-color: #343942;
+    width: 540px;
+    margin-left: 60px;
+}
+.card-img-top{
+    width: 113px;
+    height: 113px;
+    border-radius: 100%;
+    border: none;
+    margin-left: 40px;
+}
+.card-subtitle1>h3{
+    font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 42px;
+/* identical to box height, or 140% */
+letter-spacing: 0.2px;
+color: #FFFFFF;
+margin-top: 30px;
+}
+.card-subtitle1>h4{
+    font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: #E1B168;
+
+}
+.card-body{
+    border-top: 1px solid #797E89;
+}
+.card-text{
+    font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+/* or 156% */
+
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
 }
