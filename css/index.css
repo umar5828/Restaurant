@@ -1,0 +1,189 @@
+a{
+    text-decoration: none;
+}
+.button_box{
+    background: #E1B168;
+border: 2px solid #E1B168;
+border-radius: 0px;
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+text-align: center;
+letter-spacing: 0.44px;
+color: #292E36;
+}
+.link_btn{
+    display: inline-block;
+border: 2px solid #E1B168;
+border-radius: 0px;
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+}
+.text{
+    font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 56px;
+letter-spacing: 0.2px;
+color: #292E36;
+}
+.title{
+    font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: #555555;
+}
+.text_border{
+    display: inline-block;
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+letter-spacing: 3px;
+text-transform: uppercase;
+color: #292E36;
+border-top: 1px solid #E1B168;
+border-bottom: 1px solid #E1B168;
+
+}
+.menu-text{
+    font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 42px;
+letter-spacing: 0.2px;
+color: #292E36;
+}
+.menu-title{
+    font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.2px;
+
+color: #555555;
+
+}
+
+
+
+
+
+
+/*Navbar*/
+.navbar{
+    border-top: 1px solid #5C6168;
+    border-bottom: 2px dashed #5C6168;
+}
+.nav-link{
+    font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: white;
+}
+.nav-link:hover{
+    color: #E1B168;
+}
+.nav-link:focus{
+    color: #E1B168;
+  }
+  .icon{
+    color: #FFFFFF;
+    display: inline-block;
+  }
+  .icon:hover{
+    color: #E1B168;
+  }
+  /*ABout Us*/
+  .about_title{
+    font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 110px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+}
+.about_text{
+    font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+}
+  .img-border>img{
+    background: url(.jpg);
+    border-radius: 626px 626px 0px 0px;
+    width: 599px;
+    height: 740px;
+  }
+  .img-border img{
+    border: 10px  solid #E1B168;
+}
+
+.icon-border {
+    display: inline-block;
+    border-radius: 50%;
+    background-color: #555555;
+    width: 80px;
+    height:80px;
+}
+.icon-border a{
+    margin-top: 25px;
+    display: inline-block;
+}
+.icon-border a i{
+    color: #ffffff;
+    display: inline-block;
+}
+.icon_text{
+    font-family: 'Cormorant Infant';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 39px;
+letter-spacing: 0.2px;
+color: #292E36;
+}
+.icon_title{
+    font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: #555555;
+}
+
+
+.card-title{
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
